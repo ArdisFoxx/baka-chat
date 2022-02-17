@@ -11,3 +11,9 @@ You can use your own images instead of the provided ones - just choose one in th
 
 ## Supported Modules:
 * [Better Rolls 5E](https://foundryvtt.com/packages/betterrolls5e)
+
+### Ko-Fi
+
+If you have read this far and want to show some more appreciation: I have a Ko-Fi, should you consider what I'm doing worth a little something. Of course I do not expect nor require anyone to use it, but I'll leave it here in case someone wants to give:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7ALZTI)
