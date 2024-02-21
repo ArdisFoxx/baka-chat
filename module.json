@@ -2,14 +2,14 @@
     "name": "baka-chat",
     "title": "Baka Chat",
     "description": "A module to make natural 1s and 20s more special.",
-    "author": "kid2407 with v11 fork by ArdisFoxx",
+    "author": "original by kid2407 - v11 fork by ArdisFoxx",
     "version": "1.1.4",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "11",
     "compatibility": {
         "minimum": 9,
-        "verified": 10,
-        "maximum": 10
+        "verified": 11,
+        "maximum": 11
     },
     "url": "https://github.com/ArdisFoxx/baka-chat",
     "download": "https://github.com/ArdisFoxx/baka-chat/releases/latest/download/module.zip",
