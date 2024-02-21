@@ -12,8 +12,8 @@
         "maximum": 11
     },
     "url": "https://github.com/ArdisFoxx/baka-chat",
-    "download": "https://github.com/ArdisFoxx/baka-chat/releases/latest/download/module.zip",
-    "manifest": "https://github.com/ArdisFoxx/baka-chat/releases/latest/download/module.json",
+    "download": "https://github.com/ArdisFoxx/baka-chat/releases/download/latest/module.zip",
+    "manifest": "https://github.com/ArdisFoxx/baka-chat/releases/download/latest/module.json",
     "readme": "README.md",
     "license": "LICENSE.md",
     "esmodules": [
